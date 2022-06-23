@@ -42,7 +42,7 @@
 4. Click [FORK](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Queen-Bixby-MD
+https://heroku.com/deploy?template=https://github.com/nosemonsterj/Queen-Bixby-MD
 ``` 
 6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
    <br>
